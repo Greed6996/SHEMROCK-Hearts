@@ -1,0 +1,6 @@
+{
+  "name": "SHEMROCK Hearts Preschool",
+  "description": "SHEMROCK Hearts Preschool & Playschool in Beltola, Guwahati. Featuring interactive campus tour booking, admission enquiry, facility photo galleries, and fun animations for kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
